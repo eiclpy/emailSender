@@ -1,2 +1,2 @@
 # emailSender
-A script send mail in bulk
+HUST 邮箱批量发送脚本
